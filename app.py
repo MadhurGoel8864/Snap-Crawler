@@ -1,3 +1,5 @@
+import chromedriver_autoinstaller
+chromedriver_autoinstaller.install()
 import os
 import instaloader
 from selenium import webdriver
